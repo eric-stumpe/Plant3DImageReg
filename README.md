@@ -156,7 +156,7 @@ pip install numpy matplotlib imageio opencv-python jupyter open3d
 - `calibration_dataset/`
 - `image_dataset/`
 
-Please replace the folders with the actual data from the Zenodo repository linked in the paper.
+Please replace the folders with the actual data from the Zenodo repository: https://zenodo.org/records/15782840.
 
 ---
 
